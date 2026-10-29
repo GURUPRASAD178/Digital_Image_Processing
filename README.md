@@ -217,7 +217,6 @@ Image compression reduces the amount of data required to represent an image.
 
 ## 📂 Project Structure
 
-Organize the repository using the following structure. Adjust the filenames to match your actual Python files.
 
 ```text
 Digital-Image-Processing/
@@ -274,4 +273,3 @@ The structure above is a suggested organization. You do not need to create every
 - pip package manager
 - An IDE such as Visual Studio Code, PyCharm, or Jupyter Notebook
 
-### Step 1: Clone
